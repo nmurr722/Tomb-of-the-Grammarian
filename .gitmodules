@@ -1,0 +1,3 @@
+[submodule "Levenshtein"]
+	path = Levenshtein
+	url = https://github.com/maxbachmann/Levenshtein.git
